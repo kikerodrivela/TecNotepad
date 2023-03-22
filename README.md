@@ -1,27 +1,21 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="TecNotepad" />
-
-  &#xa0;
-
-  <a href="https://tecnotepad.netlify.app">View Demo</a>
-</div>
-
 <h1 align="center">TecNotepad</h1>
+<a href="https://tecnotepad.netlify.app">View Demo</a>
+
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/enriquetecfan11/tecnotepad?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/kikerodrivela/TecNotepad?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/enriquetecfan11/tecnotepad?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/kikerodrivela/TecNotepad?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/enriquetecfan11/tecnotepad?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/kikerodrivela/TecNotepad?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/enriquetecfan11/tecnotepad?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/kikerodrivela/TecNotepad?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/enriquetecfan11/tecnotepad?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/kikerodrivela/TecNotepad?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/enriquetecfan11/tecnotepad?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/kikerodrivela/TecNotepad?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/enriquetecfan11/tecnotepad?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/kikerodrivela/TecNotepad?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
@@ -57,7 +51,7 @@ The following tools were used in this project:
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/enriquetecfan11" target="_blank">Enrique Rodriguez Vela</a>
+Made with :heart: by <a href="https://github.com/kikerodrivela" target="_blank">Enrique Rodriguez Vela</a>
 
 &#xa0;
 
