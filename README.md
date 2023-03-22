@@ -1,6 +1,7 @@
 <h1 align="center">TecNotepad</h1>
+<div align="center">
 <a href="https://tecnotepad.netlify.app">View Demo</a>
-
+</div>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/kikerodrivela/TecNotepad?color=56BEB8">
@@ -9,7 +10,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/kikerodrivela/TecNotepad?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/kikerodrivela/TecNotepad?color=56BEB8">
+  <!-- <img alt="License" src="https://img.shields.io/github/license/kikerodrivela/TecNotepad?color=56BEB8">  -->
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/kikerodrivela/TecNotepad?color=56BEB8" /> -->
 
