@@ -20,6 +20,16 @@ nav {
   border-bottom: 1px solid #fff;
 }
 
+h1{
+  font-size: 40px;
+  text-align: center;
+  align-items: center;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  margin: 0;
+}
+
 textarea {
   width: 100%;
   height: calc(100vh - 100px);
@@ -46,25 +56,28 @@ textarea {
   border-top: 1px solid #fff;
 }
 
-#button-claro, #button-oscuro {
+#button-claro,
+#button-oscuro {
   background-color: #202020;
+  max-width: 160px;
 }
 
-#button-claro:hover, #button-oscuro:hover {
-  background-color: #686868;
+#button-claro:hover,
+#button-oscuro:hover {
+  background-color: green;
 }
 
-button{
+button {
+  color: white;
   background-color: #202020;
   border: none;
-  color: white;
-  padding: 15px 32px;
+  padding: 10px;
   text-align: center;
+  max-width: 160px;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
   margin: 4px 2px;
-  cursor: pointer;
 }
 
 button:hover {
@@ -72,9 +85,50 @@ button:hover {
   color: #fff;
 }
 
-h1{
-  font-size: 20px;
-  text-align: center;
-  align-items: center;
-  color: #fff;
+/* Responsive things */
+
+@media (max-width: 800px) {
+  body {
+    background-color: #202020;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 10px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+  nav {
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .navbar {
+    display: row;
+    flex-direction: column;
+    justify-content: center;
+    align-items: baseline;
+    margin-left: 40px;
+  }
+
+  textarea {
+    height: calc(100vh - 200px);
+  }
+
+  button {
+    max-width: 100%;
+  }
+
+  .footer {
+    position: absolute;
+    width: 100%;
+    background-color: #202020;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    border-top: 1px solid #fff;
+  }
+
 }
