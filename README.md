@@ -1,7 +1,8 @@
-<h1 align="center">TecNotepad</h1>
 <div align="center">
+<h1 align="center">TecNotepad</h1>
 <a href="https://tecnotepad.netlify.app">View Demo</a>
 </div>
+<br /><br />
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/kikerodrivela/TecNotepad?color=56BEB8">
@@ -21,9 +22,6 @@
 
 <!-- Status -->
 
-<h4 align="center"> 
-	🚧  TecNotepad 🚀 Under construction...  🚧
-</h4> 
 <hr>
 
 <p align="center">
@@ -51,9 +49,5 @@ The following tools were used in this project:
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-
 Made with :heart: by <a href="https://github.com/kikerodrivela" target="_blank">Enrique Rodriguez Vela</a>
 
-&#xa0;
-
-<a href="#top">Back to top</a>
