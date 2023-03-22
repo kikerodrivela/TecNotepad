@@ -1,0 +1,80 @@
+body {
+  background-color: #202020;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #202020;
+  color: #fff;
+  padding: 10px;
+  width: auto;
+  border-bottom: 1px solid #fff;
+}
+
+textarea {
+  width: 100%;
+  height: calc(100vh - 100px);
+  background-color: #202020;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+  resize: none;
+  overflow: auto;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #202020;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  border-top: 1px solid #fff;
+}
+
+#button-claro, #button-oscuro {
+  background-color: #202020;
+}
+
+#button-claro:hover, #button-oscuro:hover {
+  background-color: #686868;
+}
+
+button{
+  background-color: #202020;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: green;
+  color: #fff;
+}
+
+h1{
+  font-size: 20px;
+  text-align: center;
+  align-items: center;
+  color: #fff;
+}
